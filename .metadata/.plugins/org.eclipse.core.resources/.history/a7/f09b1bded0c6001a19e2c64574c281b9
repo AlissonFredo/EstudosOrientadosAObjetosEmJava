@@ -1,0 +1,28 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner keyboard = new Scanner(System.in);
+		
+		System.out.print("Enter departament's name: ");
+		String departmentName = keyboard.nextLine();
+		System.out.println("Enter worker data:");
+		System.out.print("Name: ");
+		String workerName = keyboard.nextLine();
+		System.out.print("Level: ");
+		String workerLevel = keyboard.nextLine();
+		System.out.print("Base salary: ");
+		double baseSalary = keyboard.nextDouble();
+		
+		
+		
+		keyboard.close();
+	}
+
+}
