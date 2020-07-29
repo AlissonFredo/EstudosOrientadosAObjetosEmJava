@@ -4,6 +4,7 @@ public class Product {
 
 	protected String name;
 	protected Double price;
+	
 	public Product() {
 	}
 	public Product(String name, Double price) {
