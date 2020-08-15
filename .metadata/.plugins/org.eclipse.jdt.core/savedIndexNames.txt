@@ -3,8 +3,10 @@ INDEX VERSION 1.131+C:\Users\dougl\Documents\MeusProjetos\EstudosDeOrientacaoAOb
 3599144734.index
 2686914088.index
 850714468.index
+1976570295.index
 3707711488.index
 2629311573.index
+2103231971.index
 1232910406.index
 320698113.index
 23336774.index
